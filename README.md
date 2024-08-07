@@ -1,8 +1,9 @@
-## Hi there 👋
+## Tel ecran, Tel ecrit. 👋 I am telecran-telecrit public home page.
+
+
+**[telecran-telecrit/telecran-telecrit.gihub.io](https://github.com/telecran-telecrit/telecran-telecrit.github.io)** is a ✨ _special_ ✨ repoon the GitHub.
 
 <!--
-**telecran-telecrit/telecran-telecrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
