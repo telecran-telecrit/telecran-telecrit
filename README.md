@@ -17,6 +17,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-158F4C?style=flat&logo=apple&logoColor=violet)
 ![MX Linux](https://img.shields.io/badge/MX_Linux-000?style=flat&logo=mx-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-B95530?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-EFEFEF?style=flat&logo=android&logoColor=78C257)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
