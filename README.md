@@ -1,4 +1,4 @@
-## Tel ecran, Tel ecrit. 👋 I am telecran-telecrit public home page.
+## Tel ecran, Tel ecrit. 👋 I am telecran-telecrit public home page, [WYSIWYG](https://fr.wikipedia.org/wiki/What_you_see_is_what_you_get)!
 
 
 **[telecran-telecrit/telecran-telecrit.gihub.io](https://github.com/telecran-telecrit/telecran-telecrit.github.io)** is a ✨ _special_ ✨ repo on the GitHub.
